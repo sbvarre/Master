@@ -3,5 +3,7 @@ create table stats (
 funny int,
 useful1 int,
 cool int,
+useful int,
+cool1 int,
 stars1 int
 );
