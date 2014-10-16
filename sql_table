@@ -2,6 +2,6 @@ use test;
 create table stats (
 funny int,
 useful int,
-cool int,
+cool1 int,
 stars1 int
 );
