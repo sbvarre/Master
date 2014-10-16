@@ -1,7 +1,7 @@
 use test;
 create table stats (
 funny int,
-useful int,
+useful1 int,
 cool int,
 stars1 int
 );
